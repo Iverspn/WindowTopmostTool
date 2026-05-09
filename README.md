@@ -1,4 +1,4 @@
-# WindowTopmostTool
+# 窗口置顶工具
 
 基于C++/qt一款轻量级的窗口置顶工具。
 
